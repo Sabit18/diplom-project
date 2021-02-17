@@ -6,7 +6,6 @@ import Pages from "../Pages/Pages.css";
 import aze1 from "../assets/aze1.jpg";
 
 const imgStyle={
-	height: "90vh",
 };
 
 
